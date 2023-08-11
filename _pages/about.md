@@ -17,7 +17,7 @@ My primary research goal is to design, analyze and implement efficient algorithm
 * Convex optimization
 * Logistics
 * Statistical learning
-* Causal inference.
+* Causal inference
 
 
 You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
