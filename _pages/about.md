@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Ph.D. student from the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/). My primary research goal is to design, analyze and implement efficient algorithms for solving mixed-integer nonlinear and linear problems in data science and operations management. My research interests include integer programming, combinatorial optimization, convex optimization, logistics, statistical learning, and causal inference.
+I'm a final year Ph.D. student from the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/). I am very fortunate to be advised by [Prof. Simge Küçükyavuz](http://users.iems.northwestern.edu/~simge/). My primary research goal is to design, analyze and implement efficient algorithms for solving mixed-integer nonlinear and linear problems in data science and operations management. My research interests include:
 
-I am very fortunate to be advised by [Prof. Simge Küçükyavuz](http://users.iems.northwestern.edu/~simge/).
+* Integer programming
+* Combinatorial optimization
+* Convex optimization
+* Logistics
+* Statistical learning
+* Causal inference.
+
 
 You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
