@@ -20,4 +20,4 @@ My primary research goal is to design, analyze and implement efficient algorithm
 * Causal inference
 
 
-You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
+You can find my CV here: [Curriculum Vitae](../assets/CV(2).pdf)
