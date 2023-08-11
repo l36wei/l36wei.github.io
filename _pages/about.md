@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Ph.D. student from the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/). I am very fortunate to be advised by [Prof. Simge Küçükyavuz](http://users.iems.northwestern.edu/~simge/). My primary research goal is to design, analyze and implement efficient algorithms for solving mixed-integer nonlinear and linear problems in data science and operations management. My research interests include:
+I'm a final year Ph.D. student from the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/). I am very fortunate to be advised by [Prof. Simge Küçükyavuz](http://users.iems.northwestern.edu/~simge/). I graduated from the [university of Waterloo](https://uwaterloo.ca/) in 2018, majoring in [Combinatorics and Optimization](https://uwaterloo.ca/combinatorics-and-optimization/). 
+
+My primary research goal is to design, analyze and implement efficient algorithms for solving mixed-integer nonlinear and linear problems in data science and operations management. My research interests include:
 
 * Integer programming
 * Combinatorial optimization
