@@ -22,4 +22,4 @@ indicator variables," *Mathematical Programming, 192(1-2), 57-88, 2022.* [pdf](h
 
 1. Linchuan Wei, Andrés Gómez, Simge Küçükyavuz, "On the convexification of constrained quadratic optimization problems
 with indicator variables," *International Conference on Integer Programming and Combinatorial Optimization,
-IPCO 2020, Lecture Notes in Computer Science(), vol 12125. Springer, Cham.* [pdf](https://link.springer.com/chapter/10.1007/978-3-030-45771-6_33)
+IPCO 2020, Lecture Notes in Computer Science, vol 12125. Springer, Cham.* [pdf](https://link.springer.com/chapter/10.1007/978-3-030-45771-6_33)
