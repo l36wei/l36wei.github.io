@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an Assistant Professor at the Chinese University of Hong Kong, Shenzhen, in the School of Data Science. Before that, I was a postdoctoral fellow at HEC Montréal and the Université de Montréal, working with [Yossiri Adulyasak](https://www.hec.ca/en/profs/yossiri.adulyasak.html) and [Emma Frejinger](https://www.emmafrejinger.org). I earned my Ph.D. in Operations Research from Northwestern University， where I had the privilege of being supervised by [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/index.html). I completed my bachelor's in combinatorics and optimization at the University of Waterloo.
+I'm an Assistant Professor at the Chinese University of Hong Kong, Shenzhen, in the School of Data Science. Before that, I was a postdoctoral fellow at HEC Montréal and the Université de Montréal, working with [Yossiri Adulyasak](https://www.hec.ca/en/profs/yossiri.adulyasak.html) and [Emma Frejinger](https://www.emmafrejinger.org). I earned my Ph.D. in Operations Research from Northwestern University， where I had the privilege of being supervised by [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/index.html). I completed my bachelor's in combinatorics and optimization at the University of Waterloo. My research interests are in (Mixed) Integer programming, Machine Learning, and Logistics. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
