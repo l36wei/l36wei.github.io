@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an Assistant Professor at the Chinese University of Hong Kong, Shenzhen, in the School of Data Science. Before that, I was a postdoctoral fellow at HEC Montréal and the Université de Montréal, working with [Yossiri Adulyasak](https://www.hec.ca/en/profs/yossiri.adulyasak.html) and [Emma Frejinger](https://www.emmafrejinger.org). I earned my Ph.D. in Operations Research from Northwestern University， where I had the privilege of being supervised by [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/index.html). I completed my bachelor's in combinatorics and optimization at the University of Waterloo. My research interests are in (Mixed) Integer programming, Machine Learning, and Logistics. 
+I'm an Assistant Professor at the Chinese University of Hong Kong, Shenzhen, in the School of Data Science. Before that, I was a postdoctoral fellow at HEC Montréal and the Université de Montréal, working with [Yossiri Adulyasak](https://www.hec.ca/en/profs/yossiri.adulyasak.html) and [Emma Frejinger](https://www.emmafrejinger.org). I earned my Ph.D. in Operations Research from Northwestern University，where I had the privilege of being supervised by [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/index.html). I completed my bachelor's in combinatorics and optimization at the University of Waterloo. My research interests are in (Mixed) Integer programming, Machine Learning, and Logistics. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
