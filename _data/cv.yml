@@ -3,11 +3,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Operations Research
       institution: Northwestern University, US
       year: 2024
 
-    - title: Bachelor
+    - title: Bachelor's in Combinatorics and Optimization
       institution: University of Waterloo, Canada
       year: 2018
 
@@ -30,7 +30,8 @@
         - Nemhauser Best Paper Award
 
 
-- title: Other Interests
+- title: Professional Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Referee
+      items: Mathematical Programming, SIAM Journal on Optimization, Operations Research, Journal of Global Optimization, INFORMS Journal on Computing
