@@ -30,7 +30,7 @@ latest_posts:
 I'm an Assistant Professor at the Chinese University of Hong Kong, Shenzhen, in the School of Data Science. Before that, I was a postdoctoral fellow at HEC Montréal and the Université de Montréal, working with [Yossiri Adulyasak](https://www.hec.ca/en/profs/yossiri.adulyasak.html) and [Emma Frejinger](https://www.emmafrejinger.org). I earned my Ph.D. in Operations Research from Northwestern University，where I had the privilege of being supervised by [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/index.html). I completed my bachelor's in combinatorics and optimization at the University of Waterloo. My research interests are in (Mixed) Integer programming, Machine Learning, and Logistics. 
 
 <div align="center">
-  <img src="../assets/img/comic (2).png" alt="comic" width="700"/>
+  <img src="../assets/img/comic (2).png" alt="comic" width="600"/>
 </div>
 
 
