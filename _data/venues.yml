@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"MP":
+  url: https://link.springer.com/journal/10107
+
+"JMLR":
+  url: https://www.jmlr.org/
+
+"Optim Eng":
+  url: https://link.springer.com/journal/11081
+
+"IPCO":
+  url: https://link.springer.com/conference/ipco
