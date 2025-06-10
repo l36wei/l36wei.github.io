@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /
+title: people
 description: members of my group
 nav: true
 nav_order: 5
