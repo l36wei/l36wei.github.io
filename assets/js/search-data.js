@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -64,6 +64,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "teaching-",
+          title: '',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/01-iems313/";
             },},{
         id: 'social-email',
         title: 'email',
