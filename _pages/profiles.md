@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /people/
 title: people
 description: members of my group
 nav: true
