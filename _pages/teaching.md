@@ -31,7 +31,7 @@ nav_order: 6
 .teaching-card-img {
   width: 100%;
   height: 200px; /* 调大图片高度 */
-  object-fit: contain; /* 保证图片完整显示不被裁剪 */
+  object-fit: cover; /* 保证图片完整显示不被裁剪 */
   background: #f5f5f5;
   display: block;
 }
