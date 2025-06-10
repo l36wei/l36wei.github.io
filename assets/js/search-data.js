@@ -66,7 +66,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "teaching-foundations-of-optimization",
           title: 'Foundations of Optimization',
-          description: "",
+          description: "Formulation and solution of applicable optimization models, including linear, integer, nonlinear, and network problems.  Efficient algorithmic methods and use of oomputer modeling languages and systems.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/01-iems313/";
             },},{
