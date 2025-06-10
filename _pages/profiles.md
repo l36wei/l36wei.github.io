@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: none
 permalink: /
 title: people
 description: members of my group
